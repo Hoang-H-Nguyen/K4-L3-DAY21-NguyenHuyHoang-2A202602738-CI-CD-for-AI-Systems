@@ -1,4 +1,4 @@
-# Batch 2 appended and uploaded: 44,722 training samples in total.
+# Dataset version after batch 2: 44,722 training samples.
 outs:
 - md5: 77c658508d27fcf6b04a6f30d8dc0eb1
   size: 1126076
